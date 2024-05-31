@@ -1,4 +1,4 @@
-# *Apple Stock Price Prediction*   [![Open In Colab](https://colab.research.google.com/drive/1zRZNbOAR7D_aQGBvkHMBeHVH0DL2UeBU#scrollTo=Xm2Gtw5dLTR5)
+# *Apple Stock Price Prediction*   [![Open In Colab](https://colab.research.google.com/drive/1zRZNbOAR7D_aQGBvkHMBeHVH0DL2UeBU#scrollTo=Xm2Gtw5dLTR5)]
 
 
 Apple Inc., founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976, is a pioneering technology company known for its innovative products, including the Macintosh, iPod, iPhone, iPad, and MacBook. Starting in a garage in Cupertino, California, Apple has grown into one of the world's most valuable companies, revolutionizing the personal computing, smartphone, and digital music industries. The company's commitment to design, quality, and user experience has set it apart as a leader in technology and innovation.
